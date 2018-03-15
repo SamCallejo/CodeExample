@@ -1,0 +1,9 @@
+D:\Practi-Cal\Projects\bitteTime\PractCalTimeSheet\PractiCalTimeSheet\obj\Debug\PractiCalTimeSheet.csproj.CoreCompileInputs.cache
+D:\Practi-Cal\Projects\bitteTime\PractCalTimeSheet\PractiCalTimeSheet\bin\PractiCalTimeSheet.dll.config
+D:\Practi-Cal\Projects\bitteTime\PractCalTimeSheet\PractiCalTimeSheet\bin\PractiCalTimeSheet.dll
+D:\Practi-Cal\Projects\bitteTime\PractCalTimeSheet\PractiCalTimeSheet\bin\PractiCalTimeSheet.pdb
+D:\Practi-Cal\Projects\bitteTime\PractCalTimeSheet\PractiCalTimeSheet\obj\Debug\PractiCalTimeSheet.dll
+D:\Practi-Cal\Projects\bitteTime\PractCalTimeSheet\PractiCalTimeSheet\obj\Debug\PractiCalTimeSheet.pdb
+D:\Practi-Cal\Projects\bitteTime\PractCalTimeSheet\PractiCalTimeSheet\obj\Debug\PractiCalTimeSheet.csprojResolveAssemblyReference.cache
+D:\Practi-Cal\Projects\bitteTime\PractCalTimeSheet\PractiCalTimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Practi-Cal\Projects\bitteTime\PractCalTimeSheet\PractiCalTimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

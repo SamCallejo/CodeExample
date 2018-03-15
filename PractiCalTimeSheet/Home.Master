@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Home.master.cs" Inherits="PractiCalTimeSheet.Home" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            &nbsp;&nbsp;&nbsp;
+            <asp:Literal ID="ButtonHome" runat="server" Text="<a href='home.aspx'>Home</a>" />
+            <asp:Literal ID="LiteralSchedule" runat="server" Text="&nbsp;&nbsp;&nbsp;<a href='schedule.aspx'>Schedule</a>" />
+            <asp:Literal ID="ButtonReports" runat="server" Text="&nbsp;&nbsp;&nbsp;<a href='reports.aspx'>Reports</a>" />
+            <asp:Literal ID="LiteralAdmin" runat="server" Text="&nbsp;&nbsp;&nbsp;<a href='admin.aspx'>Admin</a>" />
+            <asp:Literal ID="LiteralAbout" runat="server" Text="&nbsp;&nbsp;&nbsp;<a href='about.aspx'>About</a>" />
+
+        </div>
+        <br />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        <p>
+            <b> General notes and requirements </b>
+            Management
+	            A manager should be able to:
+	            Review all entries for their staff
+	            Be notified when someone's time entries mean payroll can't run
+	            Add/edit position, task and employee records to fit department needs
+
+        </p>
+        <p>
+            
+		    For Management
+			    General integrity (are there potential issues that need to be resolved?)
+				    Have people put in schedules?
+				    Have they worked their scheduled hours?
+				    Have they hit their max-hour limit?
+				    Have they hit the threshold where we would start paying overtime?
+			    Payroll
+				    Check with Vic on this to determine requirements and needs
+			    Claims-per-hour
+				    This is a metric used to gauge the productivity of the input staff under Production. We're going to need to touch bases with Vic on this since she has the most knowledge.
+            
+        </p>
+        </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>
